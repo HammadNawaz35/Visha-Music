@@ -26,10 +26,15 @@ A production-ready, fully functional Android Music Player built with **Jetpack C
 
 | Settings Screen | Mini Player & Bottom Navigation |
 |-----------------|--------------------------------|
-| ![Settings](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/settings.jpeg) | ![Mini Player](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/mini_player.png) |
+| ![Settings](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/settings.jpeg) | ![Mini Player](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/play2.jpeg) |
+
+
+
+
 ## 📁 Project Structure
 
 
+```
 app/src/main/java/com/musicplayer/
 │
 ├── MusicApplication.kt                  # Hilt Application
