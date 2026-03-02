@@ -4,40 +4,29 @@
 
 A production-ready, fully functional Android Music Player built with **Jetpack Compose** and **Clean Architecture**. Inspired by a Visha Player -a music & video player.
 
----
+```
 
 ## 📸 Screenshots
 
-### Home Screen
-![Hero Screen](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/home.jpeg)
+| Boarding Screen | Home Screen |
+|-----------------|------------|
+| ![Boarding](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/boarding.jpeg) | ![Home](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/home.jpeg) |
 
-### Library Screen
-![Hero Screen](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/library.jpeg)
+| Library Screen | Play Screen |
+|----------------|------------|
+| ![Library](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/library.jpeg) | ![Play](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/play.jpeg) |
 
-### Play Screen
-![Play Screen](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/play.jpeg)
+| Fav Music Screen | Theme Screen |
+|-----------------|--------------|
+| ![Fav](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/fav.jpeg) | ![Theme](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/theme.jpeg) |
 
+| Upnext Screen | Search Screen |
+|---------------|---------------|
+| ![Upnext](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/upnext.jpeg) | ![Search](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/search.jpeg) |
 
-### Fav Music Screen
-![Play Screen](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/fav.jpeg)
-
-### Theme Screen
-![Search Screen](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/theme.jpeg)
-
-### Upnext Screen
-![Search Screen](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/upnext.jpeg)
-
-### Search Screen
-![Search Screen](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/search.jpeg)
-
-### Settings Screen
-![Settings Screen](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/settings.jpeg)
-
-### Mini Player & Bottom Navigation
-![Mini Player](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/mini_player.png)
-
----
-
+| Settings Screen | Mini Player & Bottom Navigation |
+|-----------------|--------------------------------|
+| ![Settings](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/settings.jpeg) | ![Mini Player](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/mini_player.png) |
 ## 📁 Project Structure
 
 ```
