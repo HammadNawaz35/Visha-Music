@@ -24,9 +24,9 @@ A production-ready, fully functional Android Music Player built with **Jetpack C
 |---------------|---------------|
 | ![Upnext](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/upnext.jpeg) | ![Search](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/search.jpeg) |
 
-| Settings Screen | Mini Player & Bottom Navigation |
+| Settings Screen |  Bottom Navigation |
 |-----------------|--------------------------------|
-| ![Settings](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/settings.jpeg) | ![Mini Player](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/play2.jpeg) |
+| ![Settings](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/settings.jpeg) | ![Mini Player](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/home2.jpeg) |
 
 
 
