@@ -1,6 +1,6 @@
 # 🎵 Visha Music Player
 
-![Hero Screen](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/home.jpeg)
+
 
 A production-ready, fully functional Android Music Player built with **Jetpack Compose** and **Clean Architecture**. Inspired by a Visha Player -a music & video player.
 
@@ -9,19 +9,19 @@ A production-ready, fully functional Android Music Player built with **Jetpack C
 ## 📸 Screenshots
 
 ### Home Screen
-![Home Screen](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/home_screen.png)
+![Hero Screen](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/home.jpeg)
 
 ### Library Screen
-![Library Screen](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/library_screen.png)
+![Hero Screen](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/library.jpeg)
 
 ### Play Screen
-![Play Screen](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/play_screen.png)
+![Play Screen](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/play.jpeg)
 
 ### Search Screen
-![Search Screen](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/search_screen.png)
+![Search Screen](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/search.jpeg)
 
 ### Settings Screen
-![Settings Screen](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/settings_screen.png)
+![Settings Screen](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/settings.jpeg)
 
 ### Mini Player & Bottom Navigation
 ![Mini Player](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/mini_player.png)
