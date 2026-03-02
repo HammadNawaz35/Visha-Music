@@ -191,3 +191,14 @@ Presentation  ←  Domain  ←  Data
 | KSP | 2.0.21-1.0.25 | Code generation |
 
 ---
+
+---
+
+## 📬 Contact / Collaborate
+
+Feel free to reach out or collaborate on this project!  
+
+- **Email:** [hammadnawaz35@gmail.com](mailto:hammadnawaz35@gmail.com)  
+- **GitHub:** [https://github.com/HammadNawaz35](https://github.com/HammadNawaz35)   
+
+I welcome contributions, ideas, or feedback to make this music player even better!  
