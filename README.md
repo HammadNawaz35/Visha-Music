@@ -1,6 +1,6 @@
 # 🎵 Visha Music Player
 
-![Hero Screen](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/blob/main/assets/home.jpeg)
+![Hero Screen](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/home.jpeg)
 
 A production-ready, fully functional Android Music Player built with **Jetpack Compose** and **Clean Architecture**. Inspired by a Visha Player -a music & video player.
 
