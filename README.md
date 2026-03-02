@@ -4,7 +4,7 @@
 
 A production-ready, fully functional Android Music Player built with **Jetpack Compose** and **Clean Architecture**. Inspired by a Visha Player -a music & video player.
 
-```
+
 
 ## 📸 Screenshots
 
@@ -29,7 +29,7 @@ A production-ready, fully functional Android Music Player built with **Jetpack C
 | ![Settings](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/settings.jpeg) | ![Mini Player](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/mini_player.png) |
 ## 📁 Project Structure
 
-```
+
 app/src/main/java/com/musicplayer/
 │
 ├── MusicApplication.kt                  # Hilt Application
