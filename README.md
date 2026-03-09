@@ -12,6 +12,10 @@ A production-ready, fully functional Android Music Player built with **Jetpack C
 |-----------------|------------|
 | ![Boarding](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/boarding.jpeg) | ![Home](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/home.jpeg) |
 
+| Custom bg Screen | Custom bg Screen |
+|----------------|------------|
+| ![Library](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/c1.jpg) | ![Play](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/c2.jpg) |
+
 | Library Screen | Play Screen |
 |----------------|------------|
 | ![Library](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/library.jpeg) | ![Play](https://raw.githubusercontent.com/HammadNawaz35/Visha-Music/main/assets/play.jpeg) |
